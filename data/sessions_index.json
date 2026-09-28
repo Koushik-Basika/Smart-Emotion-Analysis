@@ -1,0 +1,17 @@
+[
+    {
+        "session_id": "sess_cce7624cb3",
+        "video_id": "",
+        "video_title": "Full-Stack AI Project Tutorial (Demo Data)",
+        "channel_name": "YouTube Channel",
+        "thumbnail_url": "",
+        "timestamp": "2026-09-10 11:10:31",
+        "total_comments": 25,
+        "positive_percentage": 56.0,
+        "neutral_percentage": 16.0,
+        "negative_percentage": 28.0,
+        "toxicity_percentage": 12.0,
+        "average_quality": 53.6,
+        "dominant_emotion": "happiness"
+    }
+]
